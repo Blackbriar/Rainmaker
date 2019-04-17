@@ -1,4 +1,3 @@
-const rollup = require('rollup');
 const babel = require('rollup-plugin-babel');
 const pkg = require('./package.json');
 
